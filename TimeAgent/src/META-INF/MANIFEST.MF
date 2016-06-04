@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+PreMain-Class: tt.MainClass
+Class-Path: javassist-3.20.0-GA.jar
+Can-Retransform-Classes: true
